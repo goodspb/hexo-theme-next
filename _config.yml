@@ -216,7 +216,7 @@ avatar:
   # In theme directory (source/images): /images/avatar.gif
   # In site directory (source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: https://secure.gravatar.com/avatar/af57dccce455513452db3059bf1f2404.png
+  url: /images/avatar.jpg
   # If true, the avatar would be dispalyed in circle.
   rounded: false
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
@@ -579,7 +579,7 @@ valine:
 
 # LiveRe comments system
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC80Mjk0Ny8xOTQ5Mw==
 
 # Gitment
 # Introduction: https://github.com/imsun/gitment
